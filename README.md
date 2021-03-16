@@ -1,3 +1,4 @@
 # ColorMania
 An addictive color game
-![icon](https://github.com/yoursamlan/ColorMania/blob/main/icon.png?width=100px)
+<img src="https://github.com/yoursamlan/ColorMania/blob/main/icon.png" alt="icon" width="100" height="100">
+
